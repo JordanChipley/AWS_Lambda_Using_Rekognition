@@ -54,12 +54,12 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#steps-to-be-performed">Steps to be Performed</a>
       <ul>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#services-used">Services Used</a></li>
+    <li><a href="#estimated-time-and-cost">Estimated Time and Cost</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
