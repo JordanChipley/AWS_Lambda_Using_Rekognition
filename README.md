@@ -60,10 +60,11 @@
     </li>
     <li><a href="#services-used">Services Used</a></li>
     <li><a href="#estimated-time-and-cost">Estimated Time and Cost</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#aws-architectural-diagram">AWS Architectural Diagram</a></li>
+    <li><a href="#example-of-completed-image">Example of Completed Image</a></li>
+    <li><a href="#contributing-to-repository">Contributing to Repository</a></li>
+    <li><a href="#licenses">Licenses</a></li>
+    <li><a href="#acknowledgments-and-links">Acknowledgments and Links</a></li>
   </ol>
 </details>
 
